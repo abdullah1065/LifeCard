@@ -5,5 +5,5 @@
 Link: https://tinyurl.com/2b7xq2bf
 
 <h4 align="left">Tools:</h4>
-Figma
+<h2> Figma </h2>
 <a href="https://ibb.co/1bNrMtX"><img src="https://i.ibb.co/rvhx3Rp/Capture.jpg" alt="Capture" border="0"></a>
